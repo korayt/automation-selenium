@@ -1,0 +1,15 @@
+
+
+# Kullanıcı adı <username> ve şifre <password> ile siteye giriş yap
+
+* Butona tıkla Xpath: "//*[@id='userKvkkModal']/div/div[2]/span"
+* Butona tıkla Xpath: "//*[@id='header']/div/div/div[2]/div[2]/div[2]/div/div/a[1]"
+* "1" saniye bekle
+* Alana yaz Css: "#email" Yazı: <username>
+* Alana yaz Css: "#password" Yazı: <password>
+* "20" saniye bekle
+* Butona tıkla Css: "#loginButton"
+
+
+
+
